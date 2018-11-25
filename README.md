@@ -60,6 +60,10 @@ lb model
 * https://loopback.io/doc/en/lb3/Working-with-data.html
 * http://apidocs.loopback.io/loopback/#persistedmodel
 
+## Todo
+- Dump db, add to repo
+- ACL
+- Hide unused methods
 
 ## License
 
