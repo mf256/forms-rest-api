@@ -15,7 +15,7 @@ module.exports = function(Question) {
     });
   };
 
-// Create remote Method
+// Create remote Method 
   Question.remoteMethod('voteById', {
     http: {path: '/:id/vote', verb: 'get'},
     accepts: [

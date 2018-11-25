@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "start": "node .",
     "posttest": "npm run lint",
-    "pre-commit": "lint-staged"
+    "precommit": "lint-staged"
   },
   "lint-staged": {
     "src/**/*.{ts,tsx}": [
