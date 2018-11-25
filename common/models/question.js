@@ -17,7 +17,7 @@ module.exports = function(Question) {
 
 // Create remote Method
   Question.remoteMethod('voteById', {
-    http: {path: '/:id/vote', verb: 'get'},
+    http: {path: '/:id/vote', verb: 'post'},
     accepts: [
       {arg: 'id', type: 'string', http: {source: 'path'},
         required: true, 'description': 'Model id'
