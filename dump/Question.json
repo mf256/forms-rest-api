@@ -1,0 +1,17 @@
+{"_id":{"$oid":"5be87d7bcdb39903f13223ba"},"title":"Action","votes":4,"formId":{"$oid":"5be87beccdb39903f13223b6"}}
+{"_id":{"$oid":"5be87d82cdb39903f13223bb"},"title":"Documentary","votes":6,"formId":{"$oid":"5be87beccdb39903f13223b6"}}
+{"_id":{"$oid":"5be87d87cdb39903f13223bc"},"title":"Drama","votes":0,"formId":{"$oid":"5be87beccdb39903f13223b6"}}
+{"_id":{"$oid":"5be87d8bcdb39903f13223bd"},"title":"Horror","votes":5,"formId":{"$oid":"5be87beccdb39903f13223b6"}}
+{"_id":{"$oid":"5be87d90cdb39903f13223be"},"title":"Thriller","votes":1,"formId":{"$oid":"5be87beccdb39903f13223b6"}}
+{"_id":{"$oid":"5be87d95cdb39903f13223bf"},"title":"Western","votes":1,"formId":{"$oid":"5be87beccdb39903f13223b6"}}
+{"_id":{"$oid":"5be87db6cdb39903f13223c0"},"title":"Morning","votes":0,"formId":{"$oid":"5be87c9acdb39903f13223b7"}}
+{"_id":{"$oid":"5be87dcdcdb39903f13223c1"},"title":"Noon","votes":0,"formId":{"$oid":"5be87c9acdb39903f13223b7"}}
+{"_id":{"$oid":"5be87ddacdb39903f13223c2"},"title":"Afternoon","votes":0,"formId":{"$oid":"5be87c9acdb39903f13223b7"}}
+{"_id":{"$oid":"5be87df2cdb39903f13223c3"},"title":"Evening","votes":0,"formId":{"$oid":"5be87c9acdb39903f13223b7"}}
+{"_id":{"$oid":"5be87e00cdb39903f13223c4"},"title":"Night","votes":8,"formId":{"$oid":"5be87c9acdb39903f13223b7"}}
+{"_id":{"$oid":"5be87e1ecdb39903f13223c5"},"title":"Cinema","votes":3,"formId":{"$oid":"5be87d1dcdb39903f13223b8"}}
+{"_id":{"$oid":"5be87e3bcdb39903f13223c6"},"title":"Theater","votes":1,"formId":{"$oid":"5be87d1dcdb39903f13223b8"}}
+{"_id":{"$oid":"5be87e4bcdb39903f13223c7"},"title":"Gym","votes":3,"formId":{"$oid":"5be87d1dcdb39903f13223b8"}}
+{"_id":{"$oid":"5be87e56cdb39903f13223c8"},"title":"Party","votes":2,"formId":{"$oid":"5be87d1dcdb39903f13223b8"}}
+{"_id":{"$oid":"5be87e97cdb39903f13223c9"},"title":"Star Wars","votes":7,"formId":{"$oid":"5be87d27cdb39903f13223b9"}}
+{"_id":{"$oid":"5be87ebacdb39903f13223ca"},"title":"Star Trek","votes":3,"formId":{"$oid":"5be87d27cdb39903f13223b9"}}
