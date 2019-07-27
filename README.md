@@ -22,6 +22,11 @@ LoopBack is a highly-extensible, open-source Node.js framework. It helps quickly
 * Custom MongoDB collections for store: froms, questions
 * New custom method: voteById
 
+## Screenshots
+![Example screenshot](./doc/screen1.png)
+![Example screenshot](./doc/screen2.png)
+![Example screenshot](./doc/screen3.png)
+
 ## How to run this project.
 
 1. Clone this repo
